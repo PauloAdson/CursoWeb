@@ -10,3 +10,9 @@ console.log(typeof estaChovendo); // vai imprimir Boolean
 
 //Em uma string posso usar Apas duplas "" ou aspas simples ''
 console.log(typeof "Teste"); // vai imprimir String
+
+/* Então os 3 tipos básicos de dados são
+    1 - Number
+    2 - Boolean (Verdadeiro ou Falso)
+    3 - String
+*/
